@@ -10,11 +10,11 @@ const About = () => {
         </div>
         <div>
             <p className='text-xl mt-20 '>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto exercitationem rem fuga aspernatur ipsa neque cumque? Incidunt sequi perspiciatis velit accusantium magnam quas explicabo cupiditate, neque deleniti, a dignissimos officiis vero voluptatum impedit ad. Quidem maiores tenetur, similique distinctio, asperiores officiis voluptatem dolore assumenda molestias voluptate veniam doloribus corrupti aut.
+            I am a dedicated student pursuing a B.Tech degree at KIET Group of Institutions in Ghaziabad, focusing on Information Technology. Enthusiastic about staying at the forefront of technological advancements, I have a keen interest in learning and exploring new concepts. As a proficient frontend developer, my expertise lies in working with React JS, where I constantly strive to create engaging and user-friendly interfaces. I am driven by a passion for innovation and am currently open to internship opportunities that allow me to contribute to real-world projects and continue expanding my skill set.
             </p>
             <br/>
             <p className='text-xl'>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt delectus quaerat eligendi corrupti quia tempora sunt eius molestiae officia minus nulla dolores corporis nemo provident alias commodi, praesentium, cumque labore magnam, amet dignissimos est temporibus eos autem. Perferendis in modi, a, omnis culpa numquam nulla rem iste similique sequi pariatur.
+            My journey as a student has provided me with a strong foundation in IT, and my experience as a frontend developer has honed my abilities in creating dynamic and responsive web applications. Being adaptable and open to embracing new challenges, I am eager to apply my knowledge and skills in a professional setting through an internship. I believe in the power of continuous learning, and I am ready to contribute my enthusiasm and dedication to a team that values innovation and excellence in the field of Information Technology.
             </p>
         </div>
       </div>
