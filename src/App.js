@@ -10,7 +10,7 @@ function App() {
      <Navbar/>
      <Home/>
       <About/>
-      
+      <Portfolio/>
      
      <SocialLinks/>
     </>
