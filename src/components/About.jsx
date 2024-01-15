@@ -8,7 +8,7 @@ const About = () => {
         <div className='pb-8'>
             <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
         </div>
-        <div>
+        
             <p className='text-xl mt-20 '>
             I am a dedicated student pursuing a B.Tech degree at KIET Group of Institutions in Ghaziabad, focusing on Information Technology. Enthusiastic about staying at the forefront of technological advancements, I have a keen interest in learning and exploring new concepts. As a proficient frontend developer, my expertise lies in working with React JS, where I constantly strive to create engaging and user-friendly interfaces. I am driven by a passion for innovation and am currently open to internship opportunities that allow me to contribute to real-world projects and continue expanding my skill set.
             </p>
@@ -20,7 +20,7 @@ const About = () => {
       </div>
 
 
-    </div>
+    
   )
 }
 
