@@ -2,6 +2,7 @@ import React from 'react'
 import {FaGithub,FaLinkedin} from 'react-icons/fa'
 import {HiOutlineMail} from 'react-icons/hi'
 import {BsFillPersonLinesFill} from 'react-icons/bs'
+import { BsTwitterX } from "react-icons/bs";
 const SocialLinks = () => {
 
     const links=[
@@ -43,8 +44,19 @@ const SocialLinks = () => {
                 </>
             ),
             href:"/Resume.pdf",
-            style:'rounded-br-md',
+            
             download: true,
+        },
+        {
+            id:5,
+            child:(
+                <>
+                 Twitter <BsTwitterX size={30}/>
+                </>
+            ),
+            href:"https://twitter.com/Atharva_Sachan_",
+            style:'rounded-br-md',
+
         },
     ]
 
